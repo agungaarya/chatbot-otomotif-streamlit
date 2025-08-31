@@ -2,7 +2,6 @@
 # IMPORT LIBRARY YANG DIBUTUHKAN
 # ==============================================================================
 import streamlit as st
-import plotly as px
 import pandas as pd
 from openai import OpenAI
 from PIL import Image
